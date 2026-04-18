@@ -1,5 +1,3 @@
-Here is the full bot.py script. Paste this entire thing into your bot.py file.
-Python
 import discord
 from discord.ext import commands
 import pytesseract
